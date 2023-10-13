@@ -1,2 +1,2 @@
-1. Learn about Git commit
+1.Complete several Git theory course themes.
 
